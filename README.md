@@ -81,7 +81,6 @@ Zepto-SQL-Data-Analysis/
 ├── zepto_analysis.sql
 ├── zepto_v2.csv
 ├── README.md
-└── screenshots/
 
 
 ---
